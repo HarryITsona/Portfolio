@@ -28,7 +28,7 @@ This portfolio is built as a zero-dependency static web application. To enable G
 1. Go to **Settings** > **Pages** in this repository.
 2. Under **Branch**, select `main` (or `master`) and `/ (root)`.
 3. Click **Save**.
-4. Your website will be live at `https://<your-username>.github.io/<repo-name>/`.
+4. Your website will be live at `https://harryitsona.github.io/Portfolio/`.
 
 ---
 
